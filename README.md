@@ -1,1 +1,0 @@
-# guia-estudio-de-funciones
